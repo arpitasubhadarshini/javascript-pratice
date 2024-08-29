@@ -13,7 +13,7 @@ Introduction to javascript:
     1. let:-
        - Let is a type of variable which is used for changing the variable name latter.
        - now these days , most of the devlopers used let for changing variable value.
-       -    Let is a block scope so we have been Let for more of cases.
+       - Let is a block scope so we have been Let for more of cases.
     2. Var:-
        - var is a type of variable which is also used for changing the variable in latter stage.
        - var is used in oldest browser so now a days we are don't use var most of the cases.
@@ -21,5 +21,25 @@ Introduction to javascript:
     3. const:-
        - const is a type of vaiable where we can't change our data.
        - const means constantto store some data like number,integer etc...
-       
+ rules for creating variable:-
+
+  - variable name are case sensitive i.e a & A is different.
+  - only letter ,digit,underscore & special charecter are allowed(whitespace is not allowed).
+  - only letter , number and special charecter should be 1st charecter only.
+  - reserve word can't be a  variable name.
+DATATYPES in JS:-
+
+  - datatypes is an attributes associated with a piece of data that tells a computer system how to interprit its value.
+  - In datatypes we used "typeof" operater to know that what type of data it is.
+  - mainly in javascript their are 2 types of data types:
+  1> primitive:-
+  - in js there are 7 types of primitive data types are present :
+  1. Number:number are the type of data types which contain some numerical value
+  2. Boolean:in boolean datatypes we get boolean value like true & false
+  3. Undefined:in undefined data types the data is not define so that it will show undefined.
+  4. Null:in this data type we get null for the value means nothing.
+  5. bigInt: in this data type we get big integer value
+  6. String:string is a type of data types that hold some charecter like names or words.
+  7. Symbol:in symbol we will get whole symbol as well as the value we get for the data types.
+  2> reference:- 
     
