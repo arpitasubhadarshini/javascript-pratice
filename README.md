@@ -71,6 +71,6 @@ DATATYPES in JS:-
     - there are 5 types of operator in js
     1.ARITHMETIC OPERATOR -> (+,-,*,/,%,**(exponent))
     2.UNARY OPERATOR ->(++,--)
-    3.ASSIGNMENT OPERATOR (=,+=,-=,*=,**=)
+    3.ASSIGNMENT OPERATOR (=,+=,-=,*=,/=,**=)
     4.LOGICAL OPERATOR -> (logical and operator &&),(logical or operator ||)
     5.COMPARISION -> (==,!=,!=,===)
