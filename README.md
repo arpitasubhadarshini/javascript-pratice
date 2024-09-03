@@ -74,3 +74,33 @@ DATATYPES in JS:-
     3.ASSIGNMENT OPERATOR (=,+=,-=,*=,/=,**=)
     4.LOGICAL OPERATOR -> (logical and operator &&),(logical or operator ||)
     5.COMPARISION -> (==,!=,!=,===)
+
+    CONDITIONAL STATEMENT IN JS:-
+     - conditional statement are used to implement some condition in code:
+       = there are three tyoes of conditional statement in js 
+          1. if  condition:-
+          - if condition is true then statement is executed
+          - syntax :
+           if(condition) {
+            statement
+           }
+          2. if-else condition:-
+          - if condition is true then if block is executed otherwise it terminated to else condition.
+          - syntax:-
+            if (condition) {
+              statement
+            } else 
+            { 
+              statement
+            }
+           
+          3. else-if condition:- 
+          -  if (condition) {
+            statement
+          } else if (condition) {
+            statement
+          }else if (condition) {
+            statement
+          }else (condition) {
+            statement
+          }
