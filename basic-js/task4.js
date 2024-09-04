@@ -1,4 +1,4 @@
-let agr=60;
+let agr=23;
 if(agr>=60) {
     console.log("eligible")
 } else {
