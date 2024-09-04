@@ -1,13 +1,11 @@
-let mathmark = 78;
+let mathmark = 98;
 let arg=62;
-let science=73;
+let science=87;
 let math=80;
 if( mathmark>=90) {
+ if (arg>=60) {
+  if(science>=75 && math>=75){
     console.log("eligible");
-} else if (arg>=60) {
-    console.log("eligible");
-} else if(science>=75 && math>=75){
-    console.log("eligible");
-} else {
+} } }else {
     console.log("not eligible");
 }
